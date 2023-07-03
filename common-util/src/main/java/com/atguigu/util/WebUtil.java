@@ -1,4 +1,4 @@
-package com.atguigu.service;
+package com.atguigu.util;
 
 import com.alibaba.fastjson.JSON;
 import org.slf4j.Logger;

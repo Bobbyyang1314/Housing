@@ -1,4 +1,4 @@
-package com.atguigu.service;
+package com.atguigu.util;
 
 import com.github.pagehelper.StringUtil;
 
